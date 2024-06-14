@@ -24,6 +24,23 @@ preview_only: false
 
 Hello! My name is Aviral Kaintura, and I will be contributing to [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD), a groundbreaking open-source toolchain for digital integrated circuit automation (RTL to GDSII) during [GSoC 2024](https://summerofcode.withgoogle.com/programs/2024/projects/J8uAFNCu). My project is [LLM Assistant for OpenROAD - Data Engineering and Testing](https://summerofcode.withgoogle.com/programs/2024/projects/J8uAFNCu), jointly mentored by {{% mention iiyer %}} and {{% mention luarss %}}. The aim of this project is to develop a conversational chatbot to improve the user experience with OpenROAD. [Feel free to check out my proposal here!](https://drive.google.com/file/d/1OxRzO44x8aIg-ZXHgzXHsIqCIvWPpjQY/view?usp=sharing).
 
-OpenROAD aims to create a fully autonomous, open-source toolchain that provides a seamless RTL to GDSII capability, enabling cost-effective design exploration and tapeout. As the OpenROAD framework continues to advance, it becomes increasingly important to provide robust, user-friendly support. Our LLM Assistant will address key pain points for OpenROAD users, such as installation and troubleshooting, and will offer easy access to existing resources. The assistant will provide users with quick and accurate solutions to common issues, thereby reducing the maintainers' workload by addressing basic user concerns. Additionally, it will offer summarized information from various OpenROAD documentation and online resources.
 
-While several forms of documentation and guides are available, the LLM Assistant will enable users to navigate these resources more efficiently, making the overall experience with OpenROAD smoother and more productive. By leveraging advanced data engineering and testing methodologies, we aim to build an assistant that combines high accuracy with optimal response times. Additionally, we will collaborate with research teams at NYU and ASU to contribute to research on AI-based chat assistants for electronic design automation (EDA). Stay tuned for more updates on the project!
+Hello! My name is Aviral Kaintura, and I will be contributing to [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD), a groundbreaking open-source toolchain for digital integrated circuit automation (RTL to GDSII) during [GSoC 2024](https://summerofcode.withgoogle.com/programs/2024/projects/J8uAFNCu).
+
+My project, [LLM Assistant for OpenROAD - Data Engineering and Testing](https://summerofcode.withgoogle.com/programs/2024/projects/J8uAFNCu), is jointly mentored by {{% mention iiyer %}} and {{% mention luarss %}}.
+
+The aim of this project is to develop a conversational chatbot to improve the user experience with OpenROAD. My focus will be on developing a well-curated dataset from OpenROAD's knowledge base. This dataset will be fundamental for another project led by {{% mention palaniappan-r %}}, which involves building the chatbot's architecture. It will be used for training and validating the model and ensuring efficient context retrieval to generate accurate user responses, aiding in troubleshooting, installation, and other common issues to reduce the maintainers' workload.
+
+In addition to dataset creation, I will be working on testing and evaluation. This includes developing metrics for model evaluation, incorporating both human and automated techniques. 
+
+Our human evaluation framework will utilize chatbot feedback for valuable insights, enhancing the model and dataset. An automated batch testing application is also used to further enhance the evaluation process.
+![Screenshots](img1.jpg)
+By leveraging advanced data engineering and testing methodologies, we aim to build an assistant that combines high accuracy with optimal response times. Additionally, we will collaborate with research teams at NYU and ASU to contribute to the research on AI-based chat assistants for electronic design automation .
+
+I am thrilled to be part of this journey and look forward to making a meaningful impact on the OpenROAD project.
+
+Stay tuned for more updates on the project!
+
+
+
+Stay tuned for more updates on the project!
