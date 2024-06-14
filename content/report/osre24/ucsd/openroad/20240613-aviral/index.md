@@ -22,9 +22,6 @@ focal_point: ""
 preview_only: false
 ---
 
-Hello! My name is Aviral Kaintura, and I will be contributing to [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD), a groundbreaking open-source toolchain for digital integrated circuit automation (RTL to GDSII) during [GSoC 2024](https://summerofcode.withgoogle.com/programs/2024/projects/J8uAFNCu). My project is [LLM Assistant for OpenROAD - Data Engineering and Testing](https://summerofcode.withgoogle.com/programs/2024/projects/J8uAFNCu), jointly mentored by {{% mention iiyer %}} and {{% mention luarss %}}. The aim of this project is to develop a conversational chatbot to improve the user experience with OpenROAD. [Feel free to check out my proposal here!](https://drive.google.com/file/d/1OxRzO44x8aIg-ZXHgzXHsIqCIvWPpjQY/view?usp=sharing).
-
-
 Hello! My name is Aviral Kaintura, and I will be contributing to [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD), a groundbreaking open-source toolchain for digital integrated circuit automation (RTL to GDSII) during [GSoC 2024](https://summerofcode.withgoogle.com/programs/2024/projects/J8uAFNCu).
 
 My project, [LLM Assistant for OpenROAD - Data Engineering and Testing](https://summerofcode.withgoogle.com/programs/2024/projects/J8uAFNCu), is jointly mentored by {{% mention iiyer %}} and {{% mention luarss %}}.
